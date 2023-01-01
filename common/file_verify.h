@@ -1,0 +1,6 @@
+#ifndef EQC_COMMON_FILE_VERIFY_H
+#define EQC_COMMON_FILE_VERIFY_H
+
+
+
+#endif
